@@ -7,7 +7,7 @@
 El **Sistema de Gestión Integral de Reservas (SGIR)** es una aplicación web diseñada para gestionar las reservas de una agencia de turismo. Este sistema permite a los usuarios realizar, modificar y cancelar reservas de manera eficiente, proporcionando una experiencia fácil de usar tanto para los clientes como para los administradores de la agencia.
 
 ## :star: Características
-- **Gestión de Reservas:** Permite a los usuarios realizar, modificar y cancelar reservas.
+- **Gestión de Reservas:** Permite a los usuarios realizar, modificar y cancelar reservas.,
 - **Panel de Administración:** Herramientas para gestionar las reservas y los clientes.
 - **Notificaciones:** Envía notificaciones a los usuarios sobre el estado de sus reservas.
 - **Seguridad:** Asegura que la información del cliente y las reservas se manejen de manera segura.
