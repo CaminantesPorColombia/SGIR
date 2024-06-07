@@ -10,7 +10,7 @@ Con la implemetación de este sistema podemos reducir tiempos, un mejor conocimi
 
 > ## :star: Características
 - **Registro:** Permite al usuario registrarse proporionando informacion basica como correo y contraseña.
-- **Inicio de Seción:** Si el usiario ya se registro puede acceder a la aplicación de manera segura con el correo y la contraseña que el mismo proporsiono al registrarse.
+- **Inicio de Sesión:** Si el usiario ya se registro puede acceder a la aplicación de manera segura con el correo y la contraseña que el mismo proporsiono al registrarse.
 - **Gestión de Reservas:** Permite a los usuarios realizar, modificar y cancelar reservas.
 - **Panel de Administración:** Herramientas para gestionar las reservas y los clientes.
 - **Notificaciones:** Envía notificaciones a los usuarios sobre el estado de sus reservas.
@@ -20,4 +20,8 @@ Con la implemetación de este sistema podemos reducir tiempos, un mejor conocimi
 La agencia de turismo Caminantes por Colombia se ubica en Bosa Centro (Calle 65 No. 79 C - 04 sur) que se dedica a ofrecer experiencias inolvidables a través de sus servicios: caminatas, excursiones, campamentos o experiencias extremas con diferentes deportes.
 Ofrece promociones o planes para disfrutar con familia, amigos o entre grupos escolares rodeados de aprendizajes, experiencias, aventuras sin importar la edad.
 
-### Misión
+>-  ### Misión
+Brindar experiencias unicas e educativas, inspirando a la exploración, el aprendizaje, el cuidado y la conexión con la naturaleza. "Aventuras que dejan recuerdos duraderos."
+
+>-  ### Visión
+Ser reconocidos como lideres en la indistria de viajes de aventura y educativos a nivel Nacional, ser la elección preferida y transformar la relación entre las personas con el mundo a traves de experiencias inolvidables.
